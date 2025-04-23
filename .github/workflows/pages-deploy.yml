@@ -3,8 +3,8 @@ on:
   push:
     branches:
       - main
-      - master
-      - bootstrap
+      # - master
+      # - bootstrap
     paths-ignore:
       - .gitignore
       - README.md
